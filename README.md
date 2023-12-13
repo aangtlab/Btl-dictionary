@@ -10,7 +10,6 @@ Các chức năng
   - thêm, sửa, xóa từ
   - game nối chữ
 
-![Uploading 386476835_369799442209936_5805312558367338682_n.png…]()
 
 
 Cách chạy app dictionary
