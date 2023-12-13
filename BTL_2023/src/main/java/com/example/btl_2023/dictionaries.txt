@@ -1,0 +1,483 @@
+abandon  bỏ rơi, từ bỏ
+achieve  đạt được
+adapt  thích nghi
+admire  ngưỡng mộ
+advance  tiến bộ, tiến xa
+advice  lời khuyên
+afford  có khả năng chi trả
+agreement  thỏa thuận
+allow  cho phép
+analyze  phân tích
+anticipate  dự đoán, dự kiến
+appreciate  đánh giá, trân trọng
+approach  tiếp cận
+argue  tranh cãi
+assess  đánh giá
+assume  giả định
+attend  tham dự
+attribute  đặc tính, thuộc tính
+avoid  tránh né
+baby  em bé
+back  phía sau
+balance  cân bằng
+beautiful  đẹp đẽ
+become  trở thành
+behavior  hành vi
+believe  tin tưởng
+benefit  lợi ích
+beyond  vượt ra ngoài
+big  lớn
+biology  sinh học
+bird  con chim
+birth  sự ra đời
+black  đen
+blend  trộn lẫn
+blood  máu
+body  cơ thể
+book  sách
+boundary  ranh giới
+brave  gan dạ, dũng cảm
+calculate  tính toán
+calendar  lịch
+camera  máy ảnh
+campaign  chiến dịch
+capacity  sức chứa, khả năng
+capital  thủ đô, vốn
+capture  bắt giữ, chụp hình
+career  sự nghiệp
+celebrate  kỷ niệm, tổ chức
+challenge  thách thức
+change  thay đổi
+character  nhân vật, tính cách
+charity  từ thiện
+chemical  hóa học, hóa chất
+choice  sự lựa chọn
+circle  vòng tròn
+circumstance  hoàn cảnh
+city  thành phố
+classic  điển hình, kinh điển
+climate  khí hậu
+damage  tổn thương, hỏng hóc
+dance  nhảy múa
+data  dữ liệu
+debate  tranh luận
+decide  quyết định
+decorate  trang trí
+decrease  giảm, suy giảm
+define  định nghĩa
+degree  bằng cấp, mức độ
+deliver  giao hàng, chuyển phát
+demand  yêu cầu, đòi hỏi
+demonstrate  chứng minh
+dentist  nha sĩ
+describe  mô tả
+design  thiết kế
+destroy  phá hủy
+develop  phát triển
+difference  sự khác biệt
+difficult  khó khăn
+digital  số hóa
+education  giáo dục
+effective  hiệu quả
+effort  nỗ lực
+electric  điện
+element  yếu tố
+emphasize  nhấn mạnh
+employee  nhân viên
+encourage  khuyến khích
+energy  năng lượng
+engineer  kỹ sư
+factor  yếu tố
+family  gia đình
+famous  nổi tiếng
+fashion  thời trang
+feature  đặc điểm, tính năng
+federal  liên bang
+finance  tài chính
+focus  tập trung
+forecast  dự báo
+freedom  tự do
+galaxy  dải ngân hà
+gather  tụ tập
+generate  tạo ra, sinh ra
+generous  hào phóng
+gesture  cử chỉ
+global  toàn cầu
+gradual  từ từ, dần dần
+gravity  trọng lực
+gratitude  lòng biết ơn
+guidance  sự hướng dẫn
+genuine  chân thực, thành thật
+glance  nhìn thoáng qua
+genre  thể loại
+grace  ân sủng, duyên dáng
+grasp  nắm bắt, hiểu rõ
+gratitude  lòng biết ơn
+guarantee  đảm bảo
+guest  khách
+guidance  sự hướng dẫn
+gesture  cử chỉ
+habitat  môi trường sống
+harmony  hòa thuận
+heritage  di sản
+hesitate  ngần ngại
+highlight  điểm đặc biệt, nổi bật
+horizon  chân trời, tầm nhìn
+humble  khiêm tốn
+hybrid  lai, kết hợp
+hypothesis  giả thuyết
+hilarious  vui nhộn, hài hước
+happiness  hạnh phúc
+harmonize  điều hòa, hòa hợp
+heritage  di sản
+hesitate  do dự, ngần ngại
+highlight  làm nổi bật, điểm đặc biệt
+horizon  chân trời, tầm nhìn
+humble  khiêm tốn
+hybrid  lai, kết hợp
+hypothesis  giả thuyết
+hilarious  vui nhộn, hài hước
+idea  ý tưởng
+identify  nhận diện
+illuminate  soi sáng, làm sáng tỏ
+immerse  đắm chìm
+impact  ảnh hưởng
+implement  thực hiện
+imply  ngụ ý
+improvise  sáng tạo, ứng biến
+incentive  động cơ, khuyến khích
+incredible  khó tin, phi thường
+indulge  nuông chiều, thỏa mãn
+infer  suy luận
+inhibit  ngăn chặn
+innovate  đổi mới
+inquire  thăm dò, điều tra
+insight  cái nhìn sâu sắc
+inspire  truyền cảm hứng
+integrate  tích hợp
+interpret  diễn giải
+intricate  phức tạp, rối bời
+keen  nhanh nhạy, sắc bén
+kinetic  thuộc động năng
+kindle  châm ngọn, kích thích
+knack  nghệ thuật, mỹ thuật
+keen  sắc bén, nhạy bén
+knowledge  kiến thức
+knack  mánh khóe, tài năng
+kernel  hạt nhân
+kickstart  khởi động nhanh chóng
+kind  loại
+kingdom  quốc gia, vương quốc
+kiss  hôn
+knowledge  hiểu biết, tri thức
+knack  kỹ thuật, mánh khóe
+keep  giữ, bảo quản
+kettle  ấm đun nước
+kick  đá
+kind  tử tế, nhân từ
+knit  đan len
+known  đã biết, nổi tiếng
+label  nhãn, nhãn hiệu
+lack  thiếu hụt
+landscape  phong cảnh
+language  ngôn ngữ
+large  lớn
+laugh  cười
+launch  phóng, bắt đầu
+lavish  hoàng tráng, xa xỉ
+lead  dẫn dắt, chiếm đầu
+learn  học
+legacy  di sản
+leisure  thời gian giải trí
+liberate  giải phóng
+life  cuộc sống
+light  ánh sáng
+lively  sống động, nhanh nhẹn
+logic  logic
+love  tình yêu mới lớn
+loyal  trung thành
+luminous  sáng lạng, rực rỡ
+magnificent  hùng vĩ, tráng lệ
+maintain  duy trì
+manipulate  thao tác, kiểm soát
+marvel  kỳ diệu, ngạc nhiên
+master  chủ nhân, thạo việc
+matter  vấn đề, chất
+maximize  tối đa hóa
+mean  có ý nghĩa, xấu xa
+measure  đo lường
+meditate  thiền định
+melancholy  u sầu, buồn bã
+memory  trí nhớ
+mentor  người hướng dẫn
+merge  hợp nhất, kết hợp
+method  phương pháp
+meticulous  tỉ mỉ, cẩn thận
+miracle  phép màu
+mobile  di động
+motivate  động viên, thúc đẩy
+mystery  bí mật, điều bí ẩn
+navigate  định hướng, điều hướng
+necessary  cần thiết
+negotiate  đàm phán
+network  mạng lưới
+neutral  trung lập
+nocturnal  hoạt động vào ban đêm
+nominate  đề cử
+nostalgia  lòng nhớ nhà, hoài niệm
+nurture  nuôi dưỡng
+nuance  sắc thái, chi tiết nhỏ
+numerous  nhiều, đa dạng
+nourish  nuôi dưỡng, cung cấp dưỡng chất
+novel  tiểu thuyết, mới lạ
+nurture  nuôi dưỡng
+negotiate  đàm phán
+notorious  khét tiếng, tai tiếng
+novelty  điều mới lạ
+nuance  sắc thái
+navigate  định hướng, điều hướng
+notable  đáng chú ý
+observe  quan sát
+obtain  đạt được
+obvious  rõ ràng, dễ thấy
+occupy  chiếm đóng
+ocean  đại dương
+occur  xảy ra
+operate  vận hành
+optimistic  lạc quan
+option  lựa chọn, tùy chọn
+organize  tổ chức
+outcome  kết quả
+overcome  vượt qua
+oversee  giám sát, theo dõi
+obvious  rõ ràng, dễ thấy
+offend  xúc phạm, làm tổn thương
+opportunity  cơ hội
+optimize  tối ưu hóa
+origin  nguồn gốc
+oscillate  dao động
+outstanding  nổi bật, xuất sắc
+package  gói hàng
+participate  tham gia
+perceive  nhận thức, nhận biết
+perspective  góc nhìn, quan điểm
+phenomenon  hiện tượng
+philosophy  triết học, triết lý
+pioneer  người tiên phong, người mở đường
+planet  hành tinh
+potential  tiềm năng
+practice  thực hành, thực hiện
+precise  chính xác, đúng đắn
+predict  dự đoán
+preference  sự ưa thích
+principle  nguyên tắc
+priority  ưu tiên
+proceed  tiến hành, tiếp tục
+profound  sâu sắc, uyên bác
+progress  tiến bộ
+prominent  nổi bật, xuất chúng
+pursue  theo đuổi, theo đuổi
+qualify  đủ điều kiện
+quantity  lượng, số lượng
+quarantine  cách ly
+query  câu hỏi, vấn đề
+quest  cuộc tìm kiếm, hành trình
+quick  nhanh chóng
+quiet  yên tĩnh
+quotient  thương số
+quote  trích dẫn
+quaint  cổ điển, lạ lùng
+quality  chất lượng
+quadrant  góc phần tư
+quantify  định lượng
+quantum  lượng tử
+quarry  mỏ đá
+quest  cuộc tìm kiếm
+quintessential  tinh hoa, điển hình
+quietude  sự yên bình
+quirk  điểm độc đáo, điểm đặc biệt
+quintet  bộ năm, nhóm năm
+race  cuộc đua, chủng tộc
+radiant  tỏa sáng, rạng ngời
+random  ngẫu nhiên
+range  phạm vi, dãy
+ratio  tỷ lệ
+rational  hợp lý
+react  phản ứng
+reality  thực tế
+realm  lĩnh vực, vương quốc
+rebound  nảy lại, phục hồi
+recall  nhớ lại, triệu tập
+recommend  khuyến nghị
+recruit  tuyển mộ
+refine  làm tinh tế, cải thiện
+reflect  phản ánh
+regime  chế độ
+reinforce  củng cố, làm mạnh mẽ hơn
+relevant  liên quan, có ý nghĩa
+resilient  kiên cường, linh hoạt
+resonate  vang lên, làm rung động
+sacred  linh thiêng, thiêng liêng
+sacrifice  hy sinh
+safety  an toàn
+salient  nổi bật, đáng chú ý
+sanctuary  nơi ẩn náu, nơi linh thiêng
+saturate  làm ngập tràn, bão hòa
+scenario  tình huống, kịch bản
+scrutinize  kiểm tra kỹ lưỡng
+seamless  liền mạch, không có đường nối
+secure  an toàn, bảo mật
+seek  tìm kiếm
+serendipity  sự tình cờ may mắn
+significant  quan trọng, đáng chú ý
+simulate  mô phỏng, giả mạo
+sincerity  sự chân thành, tâm huyết
+solitude  sự cô độc, đơn độc
+spectrum  phổ, dãy màu
+spontaneous  tự nhiên, không ngờ
+strive  cố gắng, phấn đấu
+subtle  tinh tế, tế nhị
+tackle  giải quyết, đối phó
+tangible  rõ ràng, có thể chạm được
+target  mục tiêu
+technique  kỹ thuật
+temporary  tạm thời
+tension  căng thẳng
+terrain  địa hình
+testify  làm chứng, làm chứng nhân
+thrive  phát triển mạnh mẽ, thịnh vượng
+transparent  trong suốt, minh bạch
+tremor  độ rung
+trigger  kích hoạt, gây ra
+triumph  chiến thắng
+turbulence  sự hỗn loạn, rối bời
+twilight  hoàng hôn, ánh sáng dầu đêm
+tycoon  ông trùm, doanh nhân thành đạt
+typical  điển hình, tiêu biểu
+ultimate  cuối cùng, tối thượng
+undermine  làm suy yếu, làm hủy hoại
+unique  duy nhất, độc đáo
+ubiquitous  có mặt khắp nơi, phổ biến
+ultimate  cuối cùng, tối thượng
+unique  duy nhất, độc đáo
+unite  hợp nhất, đoàn kết
+universal  phổ cập, toàn cầu
+unveil  tiết lộ, hé lộ
+uphold  duy trì, ủng hộ
+urge  thúc đẩy, giục giã
+utilize  sử dụng, tận dụng
+undermine  làm suy yếu, làm hủy hoại
+undertake  đảm nhận, thực hiện
+unique  độc đáo, duy nhất
+unleash  phóng, giải phóng
+uphold  duy trì, ủng hộ
+urgency  sự cấp bách, sự khẩn cấp
+utopia  thành phố lý tưởng, thiên đàng
+utilize  tận dụng, sử dụng
+utmost  tận cùng, cực kỳ
+usher  dẫn dắt, mở đường
+upsurge  sự gia tăng đột ngột
+validate  xác nhận, chứng nhận
+value  giá trị
+vanish  biến mất, tan biến
+variety  đa dạng, loại
+vast  rộng lớn, bát ngát
+venture  mạo hiểm, liều lĩnh
+versatile  linh hoạt, đa năng
+vibrant  sôi động, sống động
+viewpoint  quan điểm, góc nhìn
+vigorous  mạnh mẽ, sức mạnh
+visualize  hình dung, tưởng tượng
+vital  quan trọng, thiết yếu
+vivid  sống động, sinh động
+volunteer  tình nguyện viên, tình nguyện
+vulnerable  tổn thương, dễ bị tổn thương
+vow  lời thề, nguyện
+voyage  cuộc hành trình, chuyến đi xa
+validate  xác minh, làm cho hợp lệ
+verify  xác minh, kiểm tra
+visionary  tầm nhìn, tầm nhìn tương lai
+wander  lang thang, lạc đà
+warrant  giấy phép, bảo đảm
+weave  dệt, đan
+whimsical  kỳ cục, phá cách
+wholehearted  toàn tâm toàn ý
+wilderness  hoang dã, vùng hoang vu
+withstand  chống đỡ, chịu đựng
+wondrous  kỳ diệu, phi thường
+workable  khả thi, có thể thực hiện được
+worship  thờ phượng, tôn thờ
+wrestle  đấu vật, chiến đấu
+wry  châm chọc, cay độc
+wistful  nhớ nhung, buồn bã
+wisdom  sự khôn ngoan, tri thức
+wield  cầm, nắm giữ quyền lực
+whimsy  sự kỳ cục, sự phá cách
+withstand  chống đỡ, chịu đựng
+worthwhile  đáng giá, có giá trị
+witty  hóm hỉnh, dí dỏm
+wonder  sự kì diệu, ngạc nhiên
+xenophobia  sự kỳ thị người ngoại quốc
+xerox  sao chép bằng máy Xerox
+xerophyte  thực vật khô
+xenon  xenon (nguyên tố hóa học)
+xenophile  người yêu thích ngoại quốc
+xaxis  trục x (trong hệ toạ độ)
+xanadu  nơi hạnh phúc, huyền bí
+xanthophyll  xanthophyll (loại hợp chất hóa học)
+xerography  phép sao chép bằng tia tử ngoại
+xerox  máy sao chép
+xenogenesis  sự phát sinh của loài ngoại lai
+xenotransplantation  ghép cấy từ động vật sang người
+xylography  nghệ thuật chạm gỗ
+xerographic  thuộc về xerography
+xyster  dụng cụ mổ xương
+xheight  chiều cao của chữ x
+xerophilous  sống tốt trong điều kiện khô hanh
+xray  tia X
+xenolithic  có chứa đá ngoại lai
+xylitol  xylitol (loại đường tự nhiên)
+yearn  khao khát, mong đợi
+yield  sinh lợi, đầu hàng
+yonder  xa xôi, kia
+yawn  sự ngáp
+yodel  hát yodel
+yore  ngày xưa, quá khứ
+youth  tuổi trẻ
+yank  kéo mạnh, nhổ mạnh
+yearning  mong đợi, khao khát
+yelp  tiếng sủa, hét lên
+yesteryear  thời xa xưa, quá khứ
+yon  xa xôi, kia
+yodel  hát yodel
+yawn  sự ngáp
+yearning  sự khao khát, mong đợi
+yeast  men nở, men bia
+yoke  cặp nối, cỗ máy nôi
+yuletide  mùa lễ Giáng Sinh
+yowl  tiếng hú, tiếng húc híp
+yip  tiếng sủa nhỏ
+zeal  lòng nhiệt huyết, lòng hăng hái
+zenith  đỉnh điểm, điểm cao nhất
+zest  hứng thú, sự sôi nổi
+zigzag  zigzag, ziczac
+zombie  xác sống, người chết sống lại
+zephyr  gió nhẹ, gió tây nhẹ
+zenith  điểm cao nhất, đỉnh điểm
+zealot  người cuồng tín, người nhiệt huyết
+zero  số không, không
+zestful  tràn đầy hứng thú, sôi nổi
+zany  kỳ cục, kỳ quặc
+zipline  dây chuyền cáp
+zenithal  thuộc về đỉnh trời, thuộc về đỉnh điểm
+zillion  số lượng lớn, vô kể
+zodiac  cung hoàng đạo
+zombie  người chết sống lại, xác sống
+zesty  hứng thú, sôi nổi
+zoom  điều chỉnh khẩu độ (trong máy ảnh)
+zealously  một cách hăng hái, nhiệt tình
+zenith  đỉnh cao, điểm đạt đến cao trào
+elephant  con chó
+ aa  aa
+love  tình yêu tuổi học trò
+handsome  Thành đẹp trai

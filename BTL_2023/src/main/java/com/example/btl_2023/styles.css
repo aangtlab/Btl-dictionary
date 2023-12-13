@@ -1,0 +1,33 @@
+.root {
+    -fx-background-color: #add8e6; /* Đặt màu nền cho toàn bộ ứng dụng */
+}
+
+.label {
+    -fx-text-fill: black; /* Đặt màu chữ cho label */
+}
+
+.button {
+    -fx-background-color: #4CAF50; /* Đặt màu nền cho button */
+    -fx-text-fill: black; /* Đặt màu chữ cho button */
+}
+
+/* Màu tab chưa được chọn */
+.tab-pane > .tab-header-area > .headers-region > .tab {
+    -fx-background-color: #9b59b6;
+    -fx-background-insets: 0 1 1 1, 0, 0;
+    -fx-padding: 0.166667em 0.666667em 0.25em 0.666667em; /* 2 8 3 8 */
+    -fx-text-fill: white;
+}
+
+/* Màu tab đã được chọn */
+.tab-pane > .tab-header-area > .headers-region > .tab:selected {
+    -fx-background-color: #e67e22;
+    -fx-background-insets: 0 1 0 1, 0, 0;
+    -fx-padding: 0.166667em 0.666667em 0.25em 0.666667em; /* 2 8 3 8 */
+    -fx-text-fill: white;
+}
+
+#headerBox {
+     -fx-background-color: yellow; /* Đặt màu nền cho headerBox */
+ }
+
